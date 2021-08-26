@@ -4,7 +4,8 @@ class Person():
         return True
     def code(self):
         print("Coding.....")
+#Creating object of Person Class.
 me = Person()
 while(me.awake()):
-    me.code()
+    me.code()   
 #end
